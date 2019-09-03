@@ -1,2 +1,2 @@
 # CursoGit
-Curso Git
+Curso Git - IFMT
