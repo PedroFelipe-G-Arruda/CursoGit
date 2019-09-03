@@ -1,4 +1,4 @@
-# CursoGit
+# Curso de Git
 Curso Git - IFMT
 
 ## Instalação
